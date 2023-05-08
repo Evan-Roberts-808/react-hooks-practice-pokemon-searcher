@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Dio",
+      "hp": "565",
+      "sprites": {
+        "front": "https://static.wikia.nocookie.net/eyes-of-heaven-jjba/images/8/86/DIORender.png/revision/latest?cb=20200924153036",
+        "back": "https://i.kym-cdn.com/photos/images/facebook/002/285/285/c33.jpg"
+      },
+      "id": 151
     }
   ]
 }
